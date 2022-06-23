@@ -68,7 +68,7 @@
 							</div>
 							<div class="col-md-4">
 								<div class="get-started">
-									<a href="#" class="btn btn-lg btn-primary">Acesse Agora! é Gratis</a>
+									<a href="admin/dashboard.php" class="btn btn-lg btn-primary">Acesse Agora! é Gratis</a>
 									<div class="learn-more">ou <a href="index.php">leia mais ....</a></div>
 								</div>
 							</div>
