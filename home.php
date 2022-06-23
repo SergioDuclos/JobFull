@@ -35,21 +35,21 @@
 									 data-y="180"
 									 data-speed="300"
 									 data-start="500"
-									 data-easing="easeOutExpo">QUAL É O SEU NOVO PROJETO</div>
+									 data-easing="easeOutExpo">QUER UM NOVO EMPREGO, CADASTRE SEU</div>
 
 								<div class="tp-caption main-label sft stb"
 									 data-x="right"
 									 data-y="210"
 									 data-speed="300"
 									 data-start="1500"
-									 data-easing="easeOutExpo">Loja Virtual?</div>
+									 data-easing="easeOutExpo">CURRICULUM</div>
 
 								<div class="tp-caption bottom-label sft stb"
 									 data-x="right"
 									 data-y="280"
 									 data-speed="500"
 									 data-start="2000"
-									 data-easing="easeOutExpo">Selecione um Freelancer para desenvolver.</div>
+									 data-easing="easeOutExpo">São centenas de oportunidades que estão a um clique.</div>
 
 							</li>
 						</ul>
@@ -62,8 +62,8 @@
 						<div class="row">
 							<div class="col-md-8">
 								<p>
-									Crie vários <em>Projetos</em> e selecione os melhores  <em>Freelancers</em>
-									<span>Crie um projeto e selecione em nosso banco de dados os melhores freelancers.</span>
+									Temos a <em>Oportunidade</em> certa para você que é um <em>Trabalhador</em>
+									<span>Nosso sistema inovador permite que você selecione as vagas com apenas um clique.</span>
 								</p>
 							</div>
 							<div class="col-md-4">
@@ -124,7 +124,7 @@
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="400">
 									<img src="img/banner_desenvolvimento.png" alt="" />
-									<strong>Desenvolvimento</strong>
+									<strong>Oportunidade</strong>
 								</div>
 							</div>
 							<div class="col-md-4 col-md-offset-1">
