@@ -14,11 +14,11 @@
 					<div class="row">
 						<div class="col-md-10">
 							<p class="lead">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla non <span class="alternative-font">metus.</span> pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut eu risus enim, ut pulvinar lectus. Sed hendrerit nibh.
+								Os clientes se cadastram, inserem no sistema a oportunidade, preenchendo completamente, depois o sistema distribui a vaga para todos os trabalhadores que possuirem perfil aderente a vaga. O<span class="alternative-font">sistema</span> gerencia toda todo o ciclo de vida da vaga, possibilitando que o cliente escolha o melhor trabalhador para a vaga de fomar simples e fácil 
 							</p>
 						</div>
 						<div class="col-md-2">
-							<a href="#" class="btn btn-lg btn-primary push-top">Join Our Team!</a>
+							<a href="#" class="btn btn-lg btn-primary push-top">Cadastre-se! é Gratis</a>
 						</div>
 					</div>
 
