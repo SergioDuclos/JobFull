@@ -2,7 +2,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="footer-ribbon">
-							<span>Nossso Admin!</span>
+							<a href="admin/dashboard.php"><span>  Nossso Admin!</span></a>
 						</div>
 						<div class="col-md-3">
 							<div class="newsletter">
@@ -36,11 +36,12 @@
 								<h4>Contact Us</h4>
 								<ul class="contact">
 									<li>
-									  <p><i class="fa fa-map-marker"></i> <strong>Endereço:</strong> Rua Ituá, 54 - Ilha do Goivernador, RJ</p></li>
+										<p><i class="fa fa-map-marker"></i> <strong>Endereço:</strong> Rua Ituá, 54 - Ilha do Goivernador, RJ</p></li>
 									<li>
 									  <p><i class="fa fa-phone"></i> <strong>Tel:</strong> (21) 9 9110-5857</p></li>
 									<li>
-									  <p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">contato@jobfull.com.br</a></p></li>
+									  <p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">contato@jobfull.com.br</a></p>
+									</li>
 								</ul>
 							</div>
 						</div>

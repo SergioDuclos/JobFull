@@ -54,7 +54,7 @@
 									<ul class="dropdown-menu">
 										<li><a href="index.php?page=sobrenos">Quem somos!</a></li>
 										<li><a href="index.php?page=cliente">Nossos Clientes</a></li>
-										<li><a href="index.php?page=freelancer">Nossos Freelancers</a></li>
+										<li><a href="index.php?page=sistema">Nosso Sistema</a></li>
 									</ul>
 								</li>
 								

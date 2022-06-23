@@ -461,7 +461,7 @@
 								<label>Vagas</label>
 							</div>
 							<div class="col-md-3 col-sm-6">
-								<strong data-to="15000">0</strong>
+								<strong data-to="15252">0</strong>
 								<label>Curriculum Cadastrados</label>
 							</div>
 							<div class="col-md-3 col-sm-6">
@@ -469,8 +469,8 @@
 								<label>Empresas Contratantes</label>
 							</div>
 							<div class="col-md-3 col-sm-6">
-								<strong data-to="159">0</strong>
-								<label>High Score</label>
+								<strong data-to="1590" data-append="+">0</strong>
+								<label>Contratados</label>
 							</div>
 						</div>
 					</div>
