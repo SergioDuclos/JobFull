@@ -62,13 +62,13 @@
 						<div class="row">
 							<div class="col-md-8">
 								<p>
-									Temos a <em>Oportunidade</em> certa para você que é um <em>Trabalhador</em>
+									Temos a <em>Oportunidade</em> certa para você que é <em>Trabalhador</em>
 									<span>Nosso sistema inovador permite que você selecione as vagas com apenas um clique.</span>
 								</p>
 							</div>
 							<div class="col-md-4">
 								<div class="get-started">
-									<a href="#" class="btn btn-lg btn-primary">Acesse Agora!</a>
+									<a href="#" class="btn btn-lg btn-primary">Acesse Agora! é Gratis</a>
 									<div class="learn-more">ou <a href="index.php">leia mais ....</a></div>
 								</div>
 							</div>
@@ -86,17 +86,17 @@
 								<strong class="inverted">
 									<span class="word-rotate" data-plugin-options='{"delay": 2000}'>
 										<span class="word-rotate-items">
+											<span>Simples</span>	
 											<span>Fácil</span>
-											<span>Simples</span>
 											<span>Eficiente</span>
 										</span>
 									</span>
 								</strong>
-							, crie seu novo projeto agora.
+							,a sua oportunidade esta a um clique.
 							</h1>
 							<p class="featured lead">
-								Nossa missão é disponibilizar os melhores freelancers para seu projeto.<br>
-								Escolha entre os melhores perfis de freelancers.
+								Nossa missão é disponibilizar os melhores trabalhadores para sua vaga.<br>
+								Escolha entre os melhores perfis de trabalhadores.
 							</p>
 						</div>
 					</div>
@@ -176,7 +176,7 @@
 											<i class="fa fa-file"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">Melhores Projetos</h4>
+											<h4 class="shorter">Melhores Oportunidades</h4>
 											<p class="tall">Trabalhamos somente com clientes cadastrados em nossa aplicação.</p>
 										</div>
 									</div>
@@ -186,7 +186,7 @@
 										</div>
 										<div class="feature-box-info">
 											<h4 class="shorter">Planos de Assinasturas Flexiveis</h4>
-											<p class="tall">O freelancer e o cliente podem contratar serviços quando necessários.</p>
+											<p class="tall">O trabalhador e o cliente podem contratar serviços quando necessários.</p>
 										</div>
 									</div>
 									<div class="feature-box">
@@ -201,8 +201,8 @@
 											<i class="fa fa-film"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">O freelancer seleciona o projeto</h4>
-											<p class="tall">O Freelancer seleciona o projeto em que irá trabalhar;</p>
+											<h4 class="shorter">O trabalhador seleciona a vaga</h4>
+											<p class="tall">O trabalhador seleciona a oportunidade com apenas um clique;</p>
 										</div>
 									</div>
 									<div class="feature-box">
@@ -223,14 +223,14 @@
 										</div>
 										<div class="feature-box-info">
 											<h4 class="shorter">Mensagens Informativas</h4>
-											<p class="tall">Mensagens para informar ao cliente e ao freelancer as movimentações em seus projetos.</p>
+											<p class="tall">Mensagens para informar ao cliente e ao trabalhador as movimentações em suas vagas.</p>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-4">
-							<h2>and more...</h2>
+							<h2>e mais...</h2>
 
 							<div class="panel-group" id="accordion">
 								<div class="panel panel-default">
@@ -244,7 +244,7 @@
 									</div>
 									<div id="collapseOne" class="accordion-body collapse in">
 										<div class="panel-body">
-											Os freelancer ao contratar um plano de associação, poderá enviar proposta para os cliente e desenvolver as atividades solicitadas..
+											O trabalhador ao contratar um plano de associação, poderá enviar seu curriculum para os clientes e concorrer as vagas solicitadas..
 										</div>
 									</div>
 								</div>
@@ -253,13 +253,13 @@
 										<h4 class="panel-title">
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
 												<i class="fa fa-comment"></i>
-												Contato e Contrates
+												Contato
 											</a>
 										</h4>
 									</div>
 									<div id="collapseTwo" class="accordion-body collapse">
 										<div class="panel-body">
-											O freelaancer e o cliente poderão entrar em contato por um formulário disponibilizado no Admin.
+											O trabalhador e o cliente poderão entrar em contato por um formulário disponibilizado no Admin.
 										</div>
 									</div>
 								</div>
@@ -268,13 +268,13 @@
 										<h4 class="panel-title">
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
 												<i class="fa fa-laptop"></i>
-												Portifolio
+												Sistema Inovador
 											</a>
 										</h4>
 									</div>
 									<div id="collapseThree" class="accordion-body collapse">
 										<div class="panel-body">
-											O freelancer Premium terá direito a inserir seus trabalhos recentes e concluídos na plataforma em seu portifólio
+											O sistema por meio de um algoritmo busca os melhores trabalhadores para cada vaga e os trabalhadores precisam so0mente de um clique para concorrer a vaga. 
 										</div>
 									</div>
 								</div>
@@ -457,16 +457,16 @@
 					<div class="container">
 						<div class="row center counters">
 							<div class="col-md-3 col-sm-6">
-								<strong data-to="7000" data-append="+">0</strong>
-								<label>Happy Clients</label>
+								<strong data-to="155225" data-append="+">0</strong>
+								<label>Vagas</label>
 							</div>
 							<div class="col-md-3 col-sm-6">
-								<strong data-to="15">0</strong>
-								<label>Years in Business</label>
+								<strong data-to="15000">0</strong>
+								<label>Curriculum Cadastrados</label>
 							</div>
 							<div class="col-md-3 col-sm-6">
-								<strong data-to="352">0</strong>
-								<label>Cups of Coffee</label>
+								<strong data-to="3352">0</strong>
+								<label>Empresas Contratantes</label>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<strong data-to="159">0</strong>
