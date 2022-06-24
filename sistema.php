@@ -54,8 +54,8 @@
 											<i class="fa fa-film"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">Sliders</h4>
-											<p class="tall">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+											<h4 class="shorter">As Empresas</h4>
+											<p class="tall">As empresas cadastram as vagas e terão acesso a diversos trabalhadores inseridos no sistema, que poderão ser contactados pelo dashboard.</p>
 										</div>
 									</div>
 									<div class="feature-box secundary">
@@ -63,8 +63,8 @@
 											<i class="fa fa-check"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">Icons</h4>
-											<p class="tall">Lorem ipsum dolor sit amet, consectetur adipiscing <span class="alternative-font">metus.</span> elit. Quisque rutrum pellentesque imperdiet.</p>
+											<h4 class="shorter">Selecione com um Clique</h4>
+											<p class="tall">O trabalhador respo nderá as vagas apenas fazendo a seleção com  <span class="alternative-font">um clique</span>, de forma simples, rápida e fácil.</p>
 										</div>
 									</div>
 								</div>
@@ -74,8 +74,8 @@
 											<i class="fa fa-bars"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">Buttons</h4>
-											<p class="tall">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+											<h4 class="shorter">Sistema Inteligente</h4>
+											<p class="tall">No lado do cliente, o sistema recebe a vaga cadastrada pelo cliente e procura os melhores trabalhadores e no lado trabalhador, podem selecionar as vagas com apenas um clique.</p>
 										</div>
 									</div>
 									<div class="feature-box secundary">
@@ -83,8 +83,8 @@
 											<i class="fa fa-desktop"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">Lightbox</h4>
-											<p class="tall">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+											<h4 class="shorter">DashBoard</h4>
+											<p class="tall">Muito diferente dos outros sites de empregos, o nosso é um sistema com um adminitrador de curriculums, onde você pode gerenciar tudo que acontece com seu curriculum.</p>
 										</div>
 									</div>
 								</div>
