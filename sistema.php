@@ -2,18 +2,18 @@
 
 					<div class="row center">
 						<div class="col-md-12">
-							<h2 class="short word-rotator-title">The New Way to <strong class="inverted" data-appear-animation="bounceIn">
+							<h2 class="short word-rotator-title">Nosso sistema é <strong class="inverted" data-appear-animation="bounceIn">
 									<span class="word-rotate" data-plugin-options='{"delay": 2000}'>
 										<span class="word-rotate-items">
-											<span>success.</span>
-											<span>advance.</span>
-											<span>progress.</span>
+											<span>Simples.</span>
+											<span>Fácil.</span>
+											<span>Eficiente</span>
 										</span>
 									</span>
 								</strong>
 							</h2>
 							<p class="featured lead">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla non <span class="alternative-font">metus.</span> pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut eu risus enim, ut pulvinar lectus. Sed hendrerit nibh.
+								A empresa contratante insere uma vaga no sistema, um <span class="alternative-font">algoritmo inteligente</span> busca os melhores trabalhadores para aquela vaga. Os trabalhadores encontram as vagas e as selecionam com apenas um clique.
 							</p>
 						</div>
 					</div>

@@ -462,7 +462,7 @@
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<strong data-to="15252">0</strong>
-								<label>Curriculum Cadastrados</label>
+								<label>Usuarios Cadastrados</label>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<strong data-to="3352">0</strong>
