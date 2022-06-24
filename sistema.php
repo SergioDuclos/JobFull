@@ -34,8 +34,8 @@
 											<i class="fa fa-group"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">Customer Support</h4>
-											<p class="tall">Lorem ipsum dolor sit amet, consectetur adipiscing <span class="alternative-font">metus.</span> elit. Quisque rutrum pellentesque imperdiet.</p>
+											<h4 class="shorter">Suporte ao Usuário</h4>
+											<p class="tall">Nosso suporte é <span class="alternative-font">24x7x365</span>.<br> Nosso tempo de resposta é de 24h</p>
 										</div>
 									</div>
 									<div class="feature-box secundary">
@@ -43,8 +43,8 @@
 											<i class="fa fa-file"></i>
 										</div>
 										<div class="feature-box-info">
-											<h4 class="shorter">HTML5 / CSS3 / JS</h4>
-											<p class="tall">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+											<h4 class="shorter">Curriculum</h4>
+											<p class="tall">Quanto mais preencher seus dados maiores chances terão de serem escolhidos para a vaga cadastrada.</p>
 										</div>
 									</div>
 								</div>
