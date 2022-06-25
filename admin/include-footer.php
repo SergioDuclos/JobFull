@@ -1,1 +1,1 @@
-<h1>Rodapé</h1>
+<p class="text-center text-muted mt-md mb-md">&copy; Copyright 2022. Todos os Direitos Reservados.</p>
