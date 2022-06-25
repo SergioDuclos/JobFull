@@ -131,12 +131,12 @@
 											<div class="widget-summary">
 												<div class="widget-summary-col widget-summary-col-icon">
 													<div class="summary-icon bg-primary">
-														<i class="fa fa-life-ring"></i>
+														<i class="fa fa-envelope"></i>
 													</div>
 												</div>
 												<div class="widget-summary-col">
 													<div class="summary">
-														<h4 class="title">Perguntas ao Suporte</h4>
+														<h4 class="title">Mensagens</h4>
 														<div class="info">
 															<strong class="amount">1281</strong>
 															<span class="text-primary">(14 sem ler)</span>
@@ -237,8 +237,8 @@
 										<a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss></a>
 									</div>
 					
-									<h2 class="panel-title">Best Seller</h2>
-									<p class="panel-subtitle">Customize the graphs as much as you want, there are so many options and features to display information using Porto Admin Template.</p>
+									<h2 class="panel-title">Mensagens</h2>
+									<p class="panel-subtitle">Um resumo grafico das mensagens enviadas e recebidas.</p>
 								</header>
 								<div class="panel-body">
 					
@@ -260,7 +260,7 @@
 												[9, 128],
 												[10, 128]
 											],
-											label: "Series 1",
+											label: "Não Lidas",
 											color: "#0088cc"
 										}, {
 											data: [
@@ -276,7 +276,7 @@
 												[9, 103],
 												[10, 113]
 											],
-											label: "Series 2",
+											label: "Enviadas",
 											color: "#2baab1"
 										}, {
 											data: [
@@ -292,7 +292,7 @@
 												[9, 28],
 												[10, 28]
 											],
-											label: "Series 3",
+											label: "Recebidas",
 											color: "#734ba9"
 										}];
 					
