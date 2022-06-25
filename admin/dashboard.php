@@ -580,7 +580,7 @@
 										</ul>
 										<hr class="dotted short">
 										<div class="text-right">
-											<a class="text-uppercase text-muted" href="#">(View All)</a>
+											<a class="text-uppercase text-muted" href="#">(Visualizar Todos)</a>
 										</div>
 									</div>
 								</div>
@@ -603,18 +603,18 @@
 										<a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss></a>
 									</div>
 					
-									<h2 class="panel-title">Company Activity</h2>
+									<h2 class="panel-title">Log de Atividades</h2>
 								</header>
 								<div class="panel-body">
 									<div class="timeline timeline-simple mt-xlg mb-md">
 										<div class="tm-body">
 											<div class="tm-title">
-												<h3 class="h5 text-uppercase">November 2016</h3>
+												<h3 class="h5 text-uppercase">Novembro 2016</h3>
 											</div>
 											<ol class="tm-items">
 												<li>
 													<div class="tm-box">
-														<p class="text-muted mb-none">7 months ago.</p>
+														<p class="text-muted mb-none">7 meses atras.</p>
 														<p>
 															It's awesome when we find a good solution for our projects, Porto Admin is <span class="text-primary">#awesome</span>
 														</p>
@@ -622,7 +622,7 @@
 												</li>
 												<li>
 													<div class="tm-box">
-														<p class="text-muted mb-none">7 months ago.</p>
+														<p class="text-muted mb-none">7 meses atras.</p>
 														<p>
 															Checkout! How cool is that!
 														</p>
@@ -652,7 +652,7 @@
 										<a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss></a>
 									</div>
 					
-									<h2 class="panel-title">Global Stats</h2>
+									<h2 class="panel-title">Estatisticas Globais</h2>
 								</header>
 								<div class="panel-body">
 									<div id="vectorMapWorld" style="height: 350px; width: 100%;"></div>
