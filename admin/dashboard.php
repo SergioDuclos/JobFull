@@ -332,7 +332,7 @@
 										<a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss></a>
 									</div>
 					
-									<h2 class="panel-title">My Profile</h2>
+									<h2 class="panel-title">Meu Perfil</h2>
 								</header>
 								<div class="panel-body">
 									<section class="panel panel-group">
@@ -343,10 +343,10 @@
 													<img src="assets/images/!logged-user.jpg">
 												</div>
 												<div class="profile-info">
-													<h4 class="name text-weight-semibold">John Doe</h4>
+													<h4 class="name text-weight-semibold">Sergio Duclos</h4>
 													<h5 class="role">Administrator</h5>
 													<div class="profile-footer">
-														<a href="#">(edit profile)</a>
+														<a href="#">(edite seu perfil)</a>
 													</div>
 												</div>
 											</div>
@@ -357,7 +357,7 @@
 												<div class="panel-heading">
 													<h4 class="panel-title">
 														<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse1One">
-															<i class="fa fa-check"></i> Tasks
+															<i class="fa fa-check"></i> Tarefas
 														</a>
 													</h4>
 												</div>
@@ -451,7 +451,7 @@
 												<div class="panel-heading">
 													<h4 class="panel-title">
 														<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse1Two">
-															 <i class="fa fa-comment"></i> Messages
+															 <i class="fa fa-comment"></i> Messagens
 														</a>
 													</h4>
 												</div>
@@ -504,7 +504,7 @@
 										<a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss></a>
 									</div>
 					
-									<h2 class="panel-title">My Stats</h2>
+									<h2 class="panel-title">Estatisticas</h2>
 								</header>
 								<div class="panel-body">
 									<section class="panel">
