@@ -310,8 +310,8 @@
 										<a href="#" class="panel-action panel-action-toggle" data-panel-toggle></a>
 										<a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss></a>
 									</div>
-									<h2 class="panel-title">Server Usage</h2>
-									<p class="panel-subtitle">It's easy to create custom graphs on Porto Admin Template, there are several graph types that you can use, such as lines, bars, pie charts, etc...</p>
+									<h2 class="panel-title">Uso do Servidor</h2>
+									<p class="panel-subtitle">Nivel de utilização do servidor...</p>
 								</header>
 								<div class="panel-body">
 					
