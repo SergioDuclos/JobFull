@@ -667,7 +667,7 @@
 										<a href="#" class="panel-action panel-action-dismiss" data-panel-dismiss></a>
 									</div>
 					
-									<h2 class="panel-title">Projects Stats</h2>
+									<h2 class="panel-title">Analise dos Curriculums</h2>
 								</header>
 								<div class="panel-body">
 									<div class="table-responsive">
@@ -675,9 +675,9 @@
 											<thead>
 												<tr>
 													<th>#</th>
-													<th>Project</th>
+													<th>Curriculum</th>
 													<th>Status</th>
-													<th>Progress</th>
+													<th>Progresso</th>
 												</tr>
 											</thead>
 											<tbody>
