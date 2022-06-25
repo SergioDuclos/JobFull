@@ -514,7 +514,7 @@
 												var sparklineBarDashData = [5, 6, 7, 2, 0, 4 , 2, 4, 2, 0, 4 , 2, 4, 2, 0, 4];
 											</script>
 											<div class="h4 text-weight-bold mb-none">488</div>
-											<p class="text-xs text-muted mb-none">Average Profile Visits</p>
+											<p class="text-xs text-muted mb-none">Total de Visitas ao seu Perfil</p>
 										</div>
 									</section>
 									<section class="panel">
@@ -526,7 +526,7 @@
 												</div>
 											</div>
 											<div class="h4 text-weight-bold mb-none">12</div>
-											<p class="text-xs text-muted mb-none">Working Projects</p>
+											<p class="text-xs text-muted mb-none">Curriculum Enviados</p>
 										</div>
 									</section>
 									<section class="panel">
@@ -536,7 +536,7 @@
 												var sparklineLineDashData = [15, 16, 17, 19, 10, 15, 13, 12, 12, 14, 16, 17];
 											</script>
 											<div class="h4 text-weight-bold mb-none">89</div>
-											<p class="text-xs text-muted mb-none">Pending Tasks</p>
+											<p class="text-xs text-muted mb-none">Tarefas Pendentes</p>
 										</div>
 									</section>
 								</div>
@@ -550,7 +550,7 @@
 					
 									<h2 class="panel-title">
 										<span class="label label-primary label-sm text-weight-normal va-middle mr-sm">198</span>
-										<span class="va-middle">Friends</span>
+										<span class="va-middle">Amigos</span>
 									</h2>
 								</header>
 								<div class="panel-body">
