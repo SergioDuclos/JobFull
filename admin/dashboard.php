@@ -451,7 +451,7 @@
 												<div class="panel-heading">
 													<h4 class="panel-title">
 														<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse1Two">
-															 <i class="fa fa-comment"></i> Messagens
+															 <i class="fa fa-comment"></i> Mensagens
 														</a>
 													</h4>
 												</div>
