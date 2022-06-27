@@ -530,7 +530,7 @@
 				                        <a href="mailbox-folder.html">
 				                            <span class="pull-right label label-primary">182</span>
 				                            <i class="fa fa-envelope" aria-hidden="true"></i>
-				                            <span>Caixa de Mensagens</span>
+				                            <span>Mensagens</span>
 				                        </a>                        
 				                    </li>
 				                    <li class="nav-parent">
