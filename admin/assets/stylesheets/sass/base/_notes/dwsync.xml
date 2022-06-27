@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="_bootstrap_extend.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_call_to_action.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_content_with_menu.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_elements.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_form.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_header-nav-main-mobile.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_header-nav-main.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_helpers.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_header.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_menu.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_nanoscroll.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_page_header.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_sidebar_left.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_sidebar_left_sizing.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_sidebar_right.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_skeleton.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_tab_navigation.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
-<file name="_toolbar.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132417968400000000" Dst="0" />
+<file name="_bootstrap_extend.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_call_to_action.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_content_with_menu.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_elements.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_form.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_header-nav-main-mobile.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_header-nav-main.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_header.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_helpers.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_menu.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_nanoscroll.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_page_header.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_sidebar_left.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096200000000" Dst="0" />
+<file name="_sidebar_left_sizing.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096800000000" Dst="0" />
+<file name="_sidebar_right.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096800000000" Dst="0" />
+<file name="_skeleton.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096800000000" Dst="0" />
+<file name="_tab_navigation.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096800000000" Dst="0" />
+<file name="_toolbar.scss" server="ftp.duclos.com.br//httpdocs/jobfull/" local="131539205320000000" remote="132418096800000000" Dst="0" />
 </dwsync>
