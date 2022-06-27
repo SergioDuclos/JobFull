@@ -136,6 +136,7 @@
 								</div>
 							</section>
 
+							<!--
 							<section class="panel">
 								<header class="panel-heading">
 									<div class="panel-actions">
@@ -195,7 +196,7 @@
 									</ul>
 								</div>
 							</section>
-
+							-->	
 						</div>
 						<div class="col-md-8 col-lg-6">
 

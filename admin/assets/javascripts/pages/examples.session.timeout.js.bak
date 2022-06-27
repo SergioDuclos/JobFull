@@ -94,7 +94,7 @@ Theme Version: 	1.7.0
 		},
 
 		onTimeout: function() {
-			self.location.href = 'login.php';
+			self.location.href = 'pages-signin.html';
 		}
 
 	};
