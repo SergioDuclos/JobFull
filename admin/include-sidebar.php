@@ -16,7 +16,7 @@
 				            
 				                <ul class="nav nav-main">
 				                    <li>
-				                        <a href="layouts-default.html">
+				                        <a href="index.php?page=dashboard">
 				                            <i class="fa fa-home" aria-hidden="true"></i>
 				                            <span>Dashboard</span>
 				                        </a>                        
@@ -24,7 +24,7 @@
 				                    <li class="nav-parent nav-expanded nav-active">
 				                        <a href="#">
 				                            <i class="fa fa-columns" aria-hidden="true"></i>
-				                            <span>Layouts</span>
+				                            <span>Vagas</span>
 				                        </a>
 				                        <ul class="nav nav-children">
 				                            <li>
@@ -194,7 +194,7 @@
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-copy" aria-hidden="true"></i>
-				                            <span>Vagas</span>
+				                            <span>Curriculum</span>
 				                        </a>
 				                       <!--
 										<ul class="nav nav-children">
@@ -279,7 +279,7 @@
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-tasks" aria-hidden="true"></i>
-				                            <span>UI Elements</span>
+				                            <span>Status</span>
 				                        </a>
 				                        <ul class="nav nav-children">
 				                            <li>
@@ -453,7 +453,7 @@
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-list-alt" aria-hidden="true"></i>
-				                            <span>Forms</span>
+				                            <span>Cadastros</span>
 				                        </a>
 				                        <ul class="nav nav-children">
 				                            <li>
@@ -491,7 +491,7 @@
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-table" aria-hidden="true"></i>
-				                            <span>Tables</span>
+				                            <span>Relatórios</span>
 				                        </a>
 				                        <ul class="nav nav-children">
 				                            <li>
