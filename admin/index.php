@@ -24,8 +24,8 @@
 				}
 			?>
 
-		<?php require_once ('include-footer.php')?>
-		</div>	
+		</div>
+		<?php require_once ('include-footer.php')?> 	
 	</section>
 			<?php require_once ('include-scripts-footer.php')?>
 
