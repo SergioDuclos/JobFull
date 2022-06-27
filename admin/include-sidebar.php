@@ -194,9 +194,10 @@
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-copy" aria-hidden="true"></i>
-				                            <span>Pages</span>
+				                            <span>Vagas</span>
 				                        </a>
-				                        <ul class="nav nav-children">
+				                       <!--
+										<ul class="nav nav-children">
 				                            <li>
 				                                <a href="pages-signup.html">
 				                                    Sign Up
@@ -273,6 +274,7 @@
 				                                </a>
 				                            </li>
 				                        </ul>
+										-->
 				                    </li>
 				                    <li class="nav-parent">
 				                        <a href="#">
@@ -528,7 +530,7 @@
 				                        <a href="mailbox-folder.html">
 				                            <span class="pull-right label label-primary">182</span>
 				                            <i class="fa fa-envelope" aria-hidden="true"></i>
-				                            <span>Mailbox</span>
+				                            <span>Caixa de Mensagens</span>
 				                        </a>                        
 				                    </li>
 				                    <li class="nav-parent">
