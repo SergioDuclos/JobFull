@@ -574,8 +574,8 @@
 				                        </a>
 				                        <ul class="nav nav-children">
 				                            <li>
-				                                <a href="extra-changelog.html">
-				                                    Log de Atividades
+				                                <a href="index.php?page=extra-changelog">
+				                                    Versão do Sistema
 				                                </a>
 				                            </li>
 				                            <!--
