@@ -329,12 +329,6 @@
 						</div>
 						
 
-
-						
-
-						
-
-					</div>
 					
 					<div class="row">
 						<div class="col-xl-3 col-lg-6">
@@ -790,3 +784,4 @@
 			</div>
 
 <!--Calendário -->
+<script src="assets/javascripts/ui-elements/examples.charts.js"></script>
