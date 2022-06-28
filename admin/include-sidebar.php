@@ -542,12 +542,13 @@
 				                            <span>Mensagens</span>
 				                        </a>                        
 				                    </li>
-				                    <li class="nav-parent">
+				                        <!--
+										<li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-map-marker" aria-hidden="true"></i>
 				                            <span>Maps</span>
 				                        </a>
-				                        <!--
+				                  
 										<ul class="nav nav-children">
 				                            <li>
 				                                <a href="maps-google-maps.html">
@@ -593,7 +594,8 @@
 				                            <span>Front-End <em class="not-included"></em></span>
 				                        </a>                        
 				                    </li>
-				                    <li class="nav-parent">
+				                  <!--
+									<li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-align-left" aria-hidden="true"></i>
 				                            <span>Menu Levels</span>
@@ -639,8 +641,9 @@
 				                                </ul>
 				                            </li>
 				                        </ul>
+										
 				                    </li>
-				
+									-->
 				                </ul>
 				            </nav>
 				
