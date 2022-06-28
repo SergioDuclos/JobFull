@@ -1,7 +1,8 @@
 
 <section role="main" class="content-body">
-					<header class="page-header">
-						<h2>Inbox</h2>
+				
+                    <header class="page-header">
+							<h2>Inbox</h2>
 					
 						<div class="right-wrapper pull-right">
 							<ol class="breadcrumbs">
