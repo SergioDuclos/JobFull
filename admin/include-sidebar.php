@@ -26,7 +26,8 @@
 				                            <i class="fa fa-columns" aria-hidden="true"></i>
 				                            <span>Vagas</span>
 				                        </a>
-				                        <ul class="nav nav-children">
+				                        <!--
+										<ul class="nav nav-children">
 				                            <li>
 				                                <a href="index.html">
 				                                    Landing Page
@@ -190,6 +191,7 @@
 				                                </a>
 				                            </li>
 				                        </ul>
+										-->
 				                    </li>
 				                    <li class="nav-parent">
 				                        <a href="#">
@@ -281,7 +283,8 @@
 				                            <i class="fa fa-tasks" aria-hidden="true"></i>
 				                            <span>Status</span>
 				                        </a>
-				                        <ul class="nav nav-children">
+				                        <!--
+										<ul class="nav nav-children">
 				                            <li>
 				                                <a href="ui-elements-typography.html">
 				                                    Typography
@@ -449,13 +452,15 @@
 				                                </a>
 				                            </li>
 				                        </ul>
+										-->
 				                    </li>
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-list-alt" aria-hidden="true"></i>
 				                            <span>Cadastros</span>
 				                        </a>
-				                        <ul class="nav nav-children">
+				                       <!--
+										<ul class="nav nav-children">
 				                            <li>
 				                                <a href="forms-basic.html">
 				                                    Basic
@@ -487,13 +492,15 @@
 				                                </a>
 				                            </li>
 				                        </ul>
+										-->
 				                    </li>
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-table" aria-hidden="true"></i>
 				                            <span>Relatórios</span>
 				                        </a>
-				                        <ul class="nav nav-children">
+				                        <!--
+										<ul class="nav nav-children">
 				                            <li>
 				                                <a href="tables-basic.html">
 				                                    Basic
@@ -525,6 +532,8 @@
 				                                </a>
 				                            </li>
 				                        </ul>
+										-->
+
 				                    </li>
 				                    <li>
 				                        <a href="mailbox-folder.html">
@@ -538,7 +547,8 @@
 				                            <i class="fa fa-map-marker" aria-hidden="true"></i>
 				                            <span>Maps</span>
 				                        </a>
-				                        <ul class="nav nav-children">
+				                        <!--
+										<ul class="nav nav-children">
 				                            <li>
 				                                <a href="maps-google-maps.html">
 				                                    Basic
@@ -555,23 +565,26 @@
 				                                </a>
 				                            </li>
 				                        </ul>
+										-->
 				                    </li>
 				                    <li class="nav-parent">
 				                        <a href="#">
 				                            <i class="fa fa-asterisk" aria-hidden="true"></i>
-				                            <span>Extra</span>
+				                            <span>Configuração</span>
 				                        </a>
 				                        <ul class="nav nav-children">
 				                            <li>
 				                                <a href="extra-changelog.html">
-				                                    Changelog
+				                                    Log de Atividades
 				                                </a>
 				                            </li>
-				                            <li>
+				                            <!--
+											<li>
 				                                <a href="extra-ajax-made-easy.html">
 				                                    Ajax Made Easy
 				                                </a>
 				                            </li>
+											-->
 				                        </ul>
 				                    </li>
 				                    <li>
