@@ -588,9 +588,9 @@
 				                        </ul>
 				                    </li>
 				                    <li>
-				                        <a href="http://themeforest.net/item/porto-responsive-html5-template/4106987?ref=Okler">
+				                        <a href="../">
 				                            <i class="fa fa-external-link" aria-hidden="true"></i>
-				                            <span>Front-End <em class="not-included">(Not Included)</em></span>
+				                            <span>Front-End <em class="not-included"></em></span>
 				                        </a>                        
 				                    </li>
 				                    <li class="nav-parent">
