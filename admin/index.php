@@ -23,7 +23,7 @@
 					echo '<span> Desculpe, esta pagina é inválida<span>';
 				}
 			?>
-
+		<?php require_once ('include-calendario.php')?>
 		</div>
 		<?php require_once ('include-footer.php')?> 	
 	</section>
