@@ -125,7 +125,7 @@
 						</div>
 						<div class="col-md-6 col-lg-12 col-xl-6">
 							<div class="row">
-								<div class="col-md-12 col-lg-6 col-xl-6">
+								<div class="col-md-12 col-lg-3 col-xl-3">
 									<section class="panel panel-featured-left panel-featured-primary">
 										<div class="panel-body">
 											<div class="widget-summary">
@@ -150,7 +150,7 @@
 										</div>
 									</section>
 								</div>
-								<div class="col-md-12 col-lg-6 col-xl-6">
+								<div class="col-md-12 col-lg-3 col-xl-3">
 									<section class="panel panel-featured-left panel-featured-secondary">
 										<div class="panel-body">
 											<div class="widget-summary">
@@ -163,7 +163,7 @@
 													<div class="summary">
 														<h4 class="title">Assinatura</h4>
 														<div class="info">
-															<strong class="amount">$ 14,890.30</strong>
+															<strong class="amount">$ 90.30</strong>
 														</div>
 													</div>
 													<div class="summary-footer">
@@ -174,9 +174,9 @@
 										</div>
 									</section>
 								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-12 col-lg-6 col-xl-6">
+
+
+								<div class="col-md-12 col-lg-3 col-xl-3">
 									<section class="panel panel-featured-left panel-featured-tertiary">
 										<div class="panel-body">
 											<div class="widget-summary">
@@ -193,14 +193,14 @@
 														</div>
 													</div>
 													<div class="summary-footer">
-														<a class="text-muted text-uppercase">(statement)</a>
+														<a class="text-muted text-uppercase">(Resumo)</a>
 													</div>
 												</div>
 											</div>
 										</div>
 									</section>
 								</div>
-								<div class="col-md-12 col-lg-6 col-xl-6">
+								<div class="col-md-12 col-lg-3 col-xl-3">
 									<section class="panel panel-featured-left panel-featured-quaternary">
 										<div class="panel-body">
 											<div class="widget-summary">
@@ -225,6 +225,10 @@
 									</section>
 								</div>
 							</div>
+							<!--<div class="row">
+								Include
+							</div>
+							-->
 						</div>
 					</div>
 					
@@ -303,6 +307,8 @@
 								</div>
 							</section>
 						</div>
+
+						
 						<div class="col-md-6">
 							<section class="panel">
 								<header class="panel-heading">
@@ -315,12 +321,19 @@
 								</header>
 								<div class="panel-body">
 					
-									<!-- Flot: Curves -->
+									<!-- Flot: Curves-->
 									<div class="chart chart-md" id="flotDashRealTime"></div>
 					
 								</div>
 							</section>
 						</div>
+						
+
+
+						
+
+						
+
 					</div>
 					
 					<div class="row">
