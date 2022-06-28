@@ -1,4 +1,5 @@
-<section role="main" class="content-body">
+
+				<section role="main" class="content-body">
 					<header class="page-header">
 						<h2>Inbox</h2>
 					
@@ -520,25 +521,4 @@
 						</div>
 					</section>
 					<!-- end: page -->
-
-                    
-		<!-- Vendor -->
-		<script src="assets/vendor/jquery/jquery.js"></script>
-		<script src="assets/vendor/jquery-browser-mobile/jquery.browser.mobile.js"></script>
-		<script src="assets/vendor/bootstrap/js/bootstrap.js"></script>
-		<script src="assets/vendor/nanoscroller/nanoscroller.js"></script>
-		<script src="assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
-		<script src="assets/vendor/magnific-popup/jquery.magnific-popup.js"></script>
-		<script src="assets/vendor/jquery-placeholder/jquery-placeholder.js"></script>
-		
-		<!-- Specific Page Vendor -->
-		<script src="assets/vendor/summernote/summernote.js"></script>
-		
-		<!-- Theme Base, Components and Settings -->
-		<script src="assets/javascripts/theme.js"></script>
-		
-		<!-- Theme Custom -->
-		<script src="assets/javascripts/theme.custom.js"></script>
-		
-		<!-- Theme Initialization Files -->
-		<script src="assets/javascripts/theme.init.js"></script>
+				</section>
