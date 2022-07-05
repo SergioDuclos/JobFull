@@ -286,35 +286,35 @@
 											<h4 class="mb-xlg">Personal Information</h4>
 											<fieldset>
 												<div class="form-group">
-													<label class="col-md-3 control-label" for="profileFirstName">First Name</label>
+													<label class="col-md-3 control-label" for="profileFirstName">Primeiro Nome</label>
 													<div class="col-md-8">
 														<input type="text" class="form-control" id="profileFirstName">
 													</div>
 												</div>
 												<div class="form-group">
-													<label class="col-md-3 control-label" for="profileLastName">Last Name</label>
+													<label class="col-md-3 control-label" for="profileLastName">Último Nome</label>
 													<div class="col-md-8">
 														<input type="text" class="form-control" id="profileLastName">
 													</div>
 												</div>
 												<div class="form-group">
-													<label class="col-md-3 control-label" for="profileAddress">Address</label>
+													<label class="col-md-3 control-label" for="profileAddress">Endereço</label>
 													<div class="col-md-8">
 														<input type="text" class="form-control" id="profileAddress">
 													</div>
 												</div>
 												<div class="form-group">
-													<label class="col-md-3 control-label" for="profileCompany">Company</label>
+													<label class="col-md-3 control-label" for="profileCompany">Empresa</label>
 													<div class="col-md-8">
 														<input type="text" class="form-control" id="profileCompany">
 													</div>
 												</div>
 											</fieldset>
 											<hr class="dotted tall">
-											<h4 class="mb-xlg">About Yourself</h4>
+											<h4 class="mb-xlg">Sobre Mim</h4>
 											<fieldset>
 												<div class="form-group">
-													<label class="col-md-3 control-label" for="profileBio">Biographical Info</label>
+													<label class="col-md-3 control-label" for="profileBio">Informação Biografia </label>
 													<div class="col-md-8">
 														<textarea class="form-control" rows="3" id="profileBio"></textarea>
 													</div>
