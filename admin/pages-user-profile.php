@@ -366,19 +366,19 @@
 							<ul class="simple-card-list mb-xlg">
 								<li class="primary">
 									<h3>488</h3>
-									<p>Nullam quris ris.</p>
+									<p>Visitas no Perfil.</p>
 								</li>
 								<li class="primary">
-									<h3>$ 189,000.00</h3>
-									<p>Nullam quris ris.</p>
+									<h3>$ 189,00</h3>
+									<p>Assinatura</p>
 								</li>
 								<li class="primary">
 									<h3>16</h3>
-									<p>Nullam quris ris.</p>
+									<p>Mensagens</p>
 								</li>
 							</ul>
 
-							<h4 class="mb-md">Projects</h4>
+							<h4 class="mb-md">Projetos</h4>
 							<ul class="simple-bullet-list mb-xlg">
 								<li class="red">
 									<span class="title">Porto Template</span>
@@ -398,7 +398,7 @@
 								</li>
 							</ul>
 
-							<h4 class="mb-md">Messages</h4>
+							<h4 class="mb-md">Mensagens</h4>
 							<ul class="simple-user-list mb-xlg">
 								<li>
 									<figure class="image rounded">
