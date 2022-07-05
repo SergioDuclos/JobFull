@@ -28,7 +28,7 @@
 									<div class="thumb-info mb-md">
 										<img src="assets/images/!logged-user.jpg" class="rounded img-responsive" alt="John Doe">
 										<div class="thumb-info-title">
-											<span class="thumb-info-inner">John Doe</span>
+											<span class="thumb-info-inner">Sergio Duclos</span>
 											<span class="thumb-info-type">CEO</span>
 										</div>
 									</div>
@@ -60,7 +60,7 @@
 									<h6 class="text-muted">Sobre</h6>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis vulputate quam. Interdum et malesuada</p>
 									<div class="clearfix">
-										<a class="text-uppercase text-muted pull-right" href="#">(View All)</a>
+										<a class="text-uppercase text-muted pull-right" href="#">(Ver Todos)</a>
 									</div>
 
 									<hr class="dotted short">
@@ -121,7 +121,7 @@
 										</ul>
 										<hr class="dotted short">
 										<div class="text-right">
-											<a class="text-uppercase text-muted" href="#">(View All)</a>
+											<a class="text-uppercase text-muted" href="#">(Ver Todos)</a>
 										</div>
 									</div>
 								</div>
@@ -362,7 +362,7 @@
 						</div>
 						<div class="col-md-12 col-lg-3">
 
-							<h4 class="mb-md">Sale Stats</h4>
+							<!-- <h4 class="mb-md">Estatisticas</h4> -->
 							<ul class="simple-card-list mb-xlg">
 								<li class="primary">
 									<h3>488</h3>
