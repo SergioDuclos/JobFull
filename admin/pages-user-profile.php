@@ -35,7 +35,7 @@
 
 									<div class="widget-toggle-expand mb-md">
 										<div class="widget-header">
-											<h6>Profile Completion</h6>
+											<h6>Perfil Completo</h6>
 											<div class="widget-toggle">+</div>
 										</div>
 										<div class="widget-content-collapsed">
@@ -47,17 +47,17 @@
 										</div>
 										<div class="widget-content-expanded">
 											<ul class="simple-todo-list">
-												<li class="completed">Update Profile Picture</li>
-												<li class="completed">Change Personal Information</li>
-												<li>Update Social Media</li>
-												<li>Follow Someone</li>
+												<li class="completed">Atualizou a foto do Perfil</li>
+												<li class="completed">Alterou as informaçôes do perfil</li>
+												<li>Atualizou a Redes Sociais</li>
+												<li>Seguir Alguém</li>
 											</ul>
 										</div>
 									</div>
 
 									<hr class="dotted short">
 
-									<h6 class="text-muted">About</h6>
+									<h6 class="text-muted">Sobre</h6>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis vulputate quam. Interdum et malesuada</p>
 									<div class="clearfix">
 										<a class="text-uppercase text-muted pull-right" href="#">(View All)</a>
@@ -84,7 +84,7 @@
 
 									<h2 class="panel-title">
 										<span class="label label-primary label-sm text-weight-normal va-middle mr-sm">198</span>
-										<span class="va-middle">Friends</span>
+										<span class="va-middle">Amigos</span>
 									</h2>
 								</header>
 								<div class="panel-body">
@@ -203,14 +203,16 @@
 							<div class="tabs">
 								<ul class="nav nav-tabs tabs-primary">
 									<li class="active">
-										<a href="#overview" data-toggle="tab">Overview</a>
-									</li>
-									<li>
 										<a href="#edit" data-toggle="tab">Edit</a>
 									</li>
+							
+									<li >
+										<a href="#overview" data-toggle="tab">Overview</a>
+									</li>
+		
 								</ul>
 								<div class="tab-content">
-									<div id="overview" class="tab-pane active">
+									<div id="overview" class="tab-pane">
 										<h4 class="mb-md">Update Status</h4>
 
 										<section class="simple-compose-box mb-xlg">
@@ -278,7 +280,7 @@
 											</div>
 										</div>
 									</div>
-									<div id="edit" class="tab-pane">
+									<div id="edit" class="tab-pane active">
 
 										<form class="form-horizontal" method="get">
 											<h4 class="mb-xlg">Personal Information</h4>
